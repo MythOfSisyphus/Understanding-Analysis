@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e1dd467aa0de637b",
+        "id": "1de5f646f9c605a6",
         "type": "tabs",
         "children": [
           {
-            "id": "7ac8afd13327afb0",
+            "id": "d48c4b293ae08488",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1 The Real Numbers/1.2 Some Preliminaries.md",
+                "file": "Chapter 1 The Real Numbers/1.3 Axiom of Completeness.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Some Preliminaries"
+              "title": "1.3 Axiom of Completeness"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "612ef8b7d9311a79",
@@ -184,10 +183,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "7ac8afd13327afb0",
+  "active": "d48c4b293ae08488",
   "lastOpenFiles": [
-    "Chapter 1 The Real Numbers/1.3 Axiom of Completeness.md",
+    "Notes/320ch5.pdf",
+    "Notes/320ch4.pdf",
+    "Notes/320ch3.pdf",
+    "Notes/320ch2.pdf",
+    "Notes/320ch1.pdf",
+    "Notes/320ch6.pdf",
+    "Notes",
+    "New folder",
     "Chapter 1 The Real Numbers/1.2 Some Preliminaries.md",
+    "Chapter 1 The Real Numbers/1.4 Consequences of Completeness.md",
+    "Chapter 1 The Real Numbers/1.3 Axiom of Completeness.md",
+    "Chapter 1 The Real Numbers/1.5 Cardinality.md",
+    "Chapter 1 The Real Numbers/Untitled",
     "Chapter 1 The Real Numbers"
   ]
 }
