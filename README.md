@@ -1,9 +1,9 @@
-# Understanding Analysis
+# [MTH 320 (Spring 2019), Analysis I](https://users.math.msu.edu/users/chamatth/320spring19.html)
 
 > ⚠️ **Best viewed in Obsidian.**  
 > These notes use Obsidian's Markdown/Math rendering. GitHub's rendering may not render inline LaTeX or certain mathematical notation (e.g., braces) exactly as in Obsidian. If something looks off, open the files in Obsidian for the intended formatting.
 
-Reference course: [MTH 320 (Spring 2019), Analysis I](https://users.math.msu.edu/users/chamatth/320spring19.html)
+**Reference Book:** Understanding Analysis, 2*nd* Edition 
 
 *Real Analysis* serves as foundation of our rigorous mathematical study, where results seem obvious and fairly intuitive and that's not the case when it comes to prove those results. In this course, we learn how to use axioms, definitions and theorems effectively to prove desired results.
 
@@ -12,18 +12,16 @@ I started this course with Prof. Abbott's book *Understanding Analysis* in hand 
 I'm using these resources to learn *Real Analysis*. This page serves as a navigation tool to access materials quickly. I will be working and writing proofs of various exercises given in both book and assignments to get most out of the course and to learn proof-writing skills. If you find any mistake in a proof or much nicer proof of some problem, then feel free to reach out or make a pull request.
 
 **Email:** luckychouhan369@gmail.com
-**Repository:** [MythOfSisyphus/Understanding-Analysis.](https://github.com/MythOfSisyphus/Understanding-Analysis)
-**Github.io Site:** [Understanding Analysis](https://mythofsisyphus.github.io/Understanding-Analysis/)
 
 ---
 
 # Prof. Baisheng Yan's Notes
-- [Chapter 1 — The Real Numbers](./Notes/320ch1.pdf)
-- [Chapter 2 — Sequence and Series](./Notes/320ch2.pdf)
-- [Chapter 3 — Basic Topology of ℝ](./Notes/320ch3.pdf)
-- [Chapter 4 — Functional Limits and Continuity](./Notes/320ch4.pdf)
-- [Chapter 5 — The Derivative](./Notes/320ch5.pdf)
-- [Chapter 6 — Sequences and Series of Functions](./Notes/320ch6.pdf)
+- [Chapter 1 — The Real Numbers](https://mythofsisyphus.github.io/Understanding-Analysis/notes/320ch1.pdf)
+- [Chapter 2 — Sequence and Series](https://mythofsisyphus.github.io/Understanding-Analysis/notes/320ch2.pdf)
+- [Chapter 3 — Basic Topology of ℝ](https://mythofsisyphus.github.io/Understanding-Analysis/notes/320ch3.pdf)
+- [Chapter 4 — Functional Limits and Continuity](https://mythofsisyphus.github.io/Understanding-Analysis/notes/320ch1.pdf)
+- [Chapter 5 — The Derivative](https://mythofsisyphus.github.io/Understanding-Analysis/notes/320ch5.pdf)
+- [Chapter 6 — Sequences and Series of Functions](https://mythofsisyphus.github.io/Understanding-Analysis/notes/320ch6.pdf)
 
 ---
 
